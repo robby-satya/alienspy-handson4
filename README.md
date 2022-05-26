@@ -9,3 +9,7 @@ NIM : 118140155
 2. Build Images Docker : **docker build -t (nama image) .**
 3. Mengecek apakah Images berhasil di buat : **docker images**
 4. Selanjutnya menjalankan game : **python main.py**
+
+Berikut ini untuk demo video :
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u5BY4y5ymZQ/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/u5BY4y5ymZQ))
