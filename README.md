@@ -1,4 +1,4 @@
-# alienspy-handson4
+## alienspy-handson4
 Tugas Hands On 4 Sistem Operasi
 
 
@@ -12,4 +12,4 @@ NIM : 118140155
 
 Berikut ini untuk demo video :
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u5BY4y5ymZQ/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtu.be/u5BY4y5ymZQ))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u5BY4y5ymZQ/0.jpg)](https://www.youtube.com/watch?v=u5BY4y5ymZQ)
